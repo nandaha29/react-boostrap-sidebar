@@ -1,5 +1,7 @@
+// Navbar === sidebar
+// memakai children biar nanti ada ruang isi content
+
 import React from "react";
-// import Navbar from "../../components/elements/Navbar/Navbar";
 
 export default function Dashboard({ children }) {
   return (

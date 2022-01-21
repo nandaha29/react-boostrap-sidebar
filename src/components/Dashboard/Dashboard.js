@@ -1,3 +1,5 @@
+// dashboard -> utk template dasar setiap tampilan
+
 import React from "react";
 import Navbar from "../../components/elements/Navbar/Navbar";
 import { Link } from "react-router-dom";

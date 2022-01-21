@@ -1,6 +1,6 @@
 import React from "react";
+// tidak di-include kan remplate dashbord karena page login bakaaln beda tampilan
 // import Dashboard from "../../components/Dashboard";
-// import CountCard from "../../components/elements/CountCard";
 
 export default function Login() {
   return (

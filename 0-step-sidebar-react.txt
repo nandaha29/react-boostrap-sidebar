@@ -1,0 +1,17 @@
+STEP-BY-STEP 
+
+- perhatikan versi tiap library ->  react router v6 ; bootstrap v5; react v17
+
+EXPLAINATION ABOUT STRUCTURE
+- src => tempat semua file yg berjalan
+- public => tempat asset dan tak terlalu diperlukan
+- component => terdiri dari beberapa komponent, yg didalmnya ada
+  Dashboard => file buat template dasar tampilan aja,
+  urutan penataan komponent dari yg paling kecil ke yg terbesar => element -> fragment, 
+- Pages => terdapat file isi dari setiap page, yg didalam page ada
+  ex : folder Home didalmnya ada index.js utk memudahkan dalam export module
+        dan file Home.js utk sebagai file yg akan dipanggil atau page utama
+        dan file action.js utk (?)
+- Utils => didalamnya terdapat encryption, fetch, storage
+
+//sekian itu dulu ya, lek mau nambahin monggo, makasi:)
